@@ -1,0 +1,20 @@
+.border {
+    border: 2px solid black;
+}
+.no-margin-bottom{
+    margin-bottom: 0px;
+}
+input{
+font-size: 13px!important; 
+height:2rem!important;
+}
+small{
+    font-size: 8px;
+}
+.littlespace{
+    margin-left: 20px;
+}
+.input-field.inline{
+    margin-top: 0px;
+    margin-bottom: 0px;
+}

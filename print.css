@@ -1,0 +1,17 @@
+input{
+    font-size: 12px!important; 
+    border-bottom: none!important;
+    box-shadow: none!important;
+    }
+.datetime-reset-button{
+    display:none!important;
+    opacity: 0!important;
+    visibility: hidden!important;
+}
+
+.printButton{
+    display: none;
+}
+#gid{
+    font-size: 13px;
+}
